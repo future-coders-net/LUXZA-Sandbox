@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976495366905",
+    "project_id": "luxza-sandbox",
+    "storage_bucket": "luxza-sandbox.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976495366905:android:edc47918191c58580e0828",
+        "android_client_info": {
+          "package_name": "jp.luxza.sandbox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmWJdzBfQ_-De0dj7kkg_nDIxi9rQiPxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
